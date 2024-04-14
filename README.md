@@ -1,4 +1,3 @@
-![MasterHead](https://media1.thehungryjpeg.com/thumbs2/ori_3751743_yt4lc4kgmuyzeahmryiofe9k39x9b1cz4b2qsuzv_coding-system-minimal-infographic-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Pornima Mulik</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
