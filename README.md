@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Web Devloper**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pornima01?tab=repositories](https://github.com/Pornima01?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, JQuery, SQL, etc.**
+- 💬 Ask me about **HTML, CSS, JavaScript, BootStrap, JQuery, Tailwind, React.js, Next.js SQL, etc.**
 
 - 📫 How to reach me **pmulik22@gmail.com**
 
