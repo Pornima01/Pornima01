@@ -108,20 +108,23 @@ Currently building at **Mahity Systems** — and always open to exciting new cha
 
 | | Project | Stack | Links |
 |:---:|:--------|:------|:-----:|
-| 🌐 | **Mahity Systems Website** — Corporate site with SEO and Umami Analytics | `Next.js` `Remix` `Tailwind` | [Code](https://github.com/Pornima01/mahity-new-website) · [Live](https://mahity-new-website.vercel.app/) |
-| 🦷 | **Sanchita Dental Website** — Booking system with Framer Motion animations | `Next.js` `Framer Motion` | [Code](https://github.com/Pornima01/sanchita-dental-website) · [Live](https://sanchita-dental-website.vercel.app) |
-| ⚙️ | **Advanced CRM System** — Sales pipeline, Golang backend, Playwright tests | `Remix` `Golang` `MySQL` | [Code](https://github.com/Pornima01/mahity-crm) |
-| 📊 | **Devlake Dashboard** — Micro Frontend engineering metrics dashboard | `React` `Module Federation` | [Code](https://github.com/Pornima01/devlake-dashboard) |
-| 📈 | **D3.js Visualizations** — Interactive charts, bar graphs, treemaps | `D3.js` `SVG` `JS` | [Code](https://github.com/Pornima01/d3-js-projects) · [Live](https://d3-js-projects.vercel.app/) |
-| 🛒 | **Medusa E-commerce** — Headless commerce with admin dashboard | `Next.js` `Medusa` `PostgreSQL` | [Code](https://github.com/Pornima01/medusa-ecommerce) |
-| 💅 | **Aperia Nails Website** — Salon booking with animated portfolio | `React` `Tailwind` `Framer Motion` | [Code](https://github.com/Pornima01/aperia-nails) · [Live](https://aperia-website.vercel.app/) |
-| 🍽️ | **Restaurant Website** — Menu, table reservation and gallery | `React` `Webpack` `Tailwind` | [Code](https://github.com/Pornima01/restaurant-website) · [Live](https://restaurant-website-one-bice.vercel.app/) |
-| 🎨 | **Aperia Brand Website** — Brand showcase with TypeScript codebase | `Next.js` `TypeScript` | [Code](https://github.com/Pornima01/aperia-website) · [Live](https://aperia-website.vercel.app/) |
-| 🎰 | **Slot Machine Game** — Spin logic, coin system and animations | `Vanilla JS` `CSS` `HTML` | [Code](https://github.com/Pornima01/slot-machine) · [Live](https://slot-machine-lac-omega.vercel.app/) |
-| 💬 | **Tiledesk Design Studio** — Chat UI with real-time chatbot API | `React` `Next.js` `REST API` | [Code](https://github.com/Pornima01/tiledesk-design-studio) · [Live](https://tiledesk-design-studio.vercel.app/) |
-| 🗄️ | **Mahity Strapi CMS** — Headless CMS with custom API endpoints | `Strapi` `Node.js` `PostgreSQL` | [Code](https://github.com/Pornima01/mahity-strapi) |
-| 💼 | **Unnati CRM** — Client management and automation | `Remix` `Golang` `MySQL` | [Code](https://github.com/Pornima01/unnati-crm) |
-| 🌐 | **Mahity Old Website** — Previous corporate website | `Next.js` `Tailwind` `Umami` | [Code](https://github.com/Pornima01/mahity-website) · [Live](https://mahity-website-oldest.vercel.app/) |
+| 💅 | **Aperia Nails Website** — Salon marketing site with service showcase, gallery & animated booking flow | `React` `Tailwind` `Framer Motion` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/aperia-nails) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://aperia-website.vercel.app/) |
+| 🌐 | **Mahity Systems Website** — Corporate site with SEO and Umami Analytics | `Next.js` `Remix` `Tailwind` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/mahity-new-website) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://mahity-new-website.vercel.app/) |
+| 🦷 | **Sanchita Dental Website** — Booking system with Framer Motion animations | `Next.js` `Framer Motion` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/sanchita-dental-website) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://sanchita-dental-website.vercel.app) |
+| 🍽️ | **Restaurant Website** — Menu, table reservation and gallery | `React` `Webpack` `Tailwind` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/restaurant-website) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://restaurant-website-one-bice.vercel.app/) |
+| 💰 | **Income Tax Calculator** — Instant tax estimator with modal output, zero dependencies | `Vanilla JS` `HTML` `CSS` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/Income_Tax_Calculator) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://income-tax-calculator-project.vercel.app/) |
+| ⚙️ | **Advanced CRM System** — Sales pipeline, Golang backend, Playwright E2E tests | `Remix` `Golang` `MySQL` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/mahity-crm) |
+| 🖥️ | **Aperia Nails System** — Full-stack salon management: booking, inventory, employee & analytics dashboard | `React` `Webpack` `Golang` `MySQL` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/aperia-nails) |
+| 📊 | **Devlake Dashboard** — Micro Frontend engineering metrics dashboard | `React` `Module Federation` `D3.js` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/devlake-dashboard) |
+| 📈 | **D3.js Visualizations** — Interactive charts, bar graphs, treemaps | `D3.js` `SVG` `JS` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/d3-js-projects) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://d3-js-projects.vercel.app/) |
+| 🛒 | **Medusa E-commerce** — Headless commerce with admin dashboard | `Next.js` `Medusa` `PostgreSQL` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/medusa-ecommerce) |
+| 🎰 | **Slot Machine Game** — Spin logic, coin system and animations | `Vanilla JS` `CSS` `HTML` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/slot-machine) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://slot-machine-lac-omega.vercel.app/) |
+| 💬 | **Tiledesk Design Studio** — Chat UI with real-time chatbot API | `React` `Next.js` `REST API` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/tiledesk-design-studio) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://tiledesk-design-studio.vercel.app/) |
+| 🗄️ | **Mahity Strapi CMS** — Headless CMS with custom API endpoints | `Strapi` `Node.js` `PostgreSQL` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/mahity-strapi) |
+| 💼 | **Unnati CRM** — Client management and automation | `Remix` `Golang` `MySQL` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/unnati-crm) |
+| 🌍 | **Mahity Old Website** — Previous corporate website | `Next.js` `Tailwind` `Umami` | [![GitHub](https://img.shields.io/badge/-%23181717?style=flat-square&logo=github&logoColor=white&labelColor=181717 "View Source Code")](https://github.com/Pornima01/mahity-website) [![Live](https://img.shields.io/badge/-▶-10b981?style=flat-square&logoColor=white "View Live Site")](https://mahity-website-oldest.vercel.app/) |
+
+> 🖤 = View Source Code &nbsp;&nbsp; 🟢 = View Live Site
 
 </div>
 
@@ -137,7 +140,6 @@ Currently building at **Mahity Systems** — and always open to exciting new cha
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pornima01&theme=tokyo-night&bg_color=0d1117&color=4f8ef7&line=7c3aed&point=f472b6&area=true&hide_border=true" />
 </div>
 
-> **Note:** Stats cards show data once GitHub indexes your repositories — usually within 24 hours of pushing commits.
 
 ---
 
