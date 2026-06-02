@@ -19,7 +19,7 @@
 
 ---
 
-<div align="center">
+<div align="start">
 
 ```js
 const pornima = {
