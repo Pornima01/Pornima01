@@ -42,18 +42,24 @@ const pornima = {
 ---
 
 ## About Me
-
-- Building **full-stack web applications** — frontend + backend
-- **Frontend:** Next.js, React, Remix, TypeScript, Tailwind CSS, Framer Motion
-- **Backend:** Golang, Node.js, REST APIs, MySQL, PostgreSQL
-- **CMS & Commerce:** Strapi, Medusa (headless e-commerce)
-- **Testing:** Playwright end-to-end tests
-- **SEO:** Keyword research, Semrush, Google Analytics, backlinks
-- **Architecture:** Micro Frontend with Module Federation
-- 14+ real-world client projects delivered
-- Open to **Full Time / Remote / Hybrid** roles in Mumbai or remote
-
----
+ 
+> *"I don't just write code — I build experiences that users feel and businesses rely on."*
+ 
+Hey! I'm **Pornima Mulik**, a Software Developer from **Mumbai, India** with 2+ years of experience turning ideas into fast, scalable, production-ready web applications.
+ 
+I work across the **full stack** — crafting pixel-perfect UIs with **Next.js, React, Remix & TypeScript** on the frontend, and building robust backend systems with **Golang, Node.js, MySQL & PostgreSQL**. I've shipped **14+ real-world projects** ranging from corporate websites and CRM platforms to headless e-commerce stores and micro frontend dashboards.
+ 
+What makes me different? I don't just make things *work* — I make them **perform**. Every project I touch gets SEO optimization, analytics integration, E2E testing with Playwright, and smooth UI animations that users actually notice.
+ 
+```
+Things I care about:
+  ✦  Clean, maintainable code over clever code
+  ✦  Performance — fast load times, optimized APIs
+  ✦  User experience — interfaces that feel natural
+  ✦  Shipping real things that real people use
+```
+ 
+Currently building at **Mahity Systems** — and always open to exciting new challenges. If you're looking for a developer who takes full ownership from design to deployment, let's talk! 🚀
 
 ## Tech Stack
 
@@ -140,7 +146,7 @@ const pornima = {
 | | Company | Role | Period | Location |
 |:---:|:--------|:-----|:------:|:--------:|
 | 🏢 | **Mahity Systems Pvt. Ltd.** | Software Developer | Aug 2024 – Present | Mumbai |
-| 📈 | **Captions Digital Pvt. Ltd.** | SEO Executive | Apr 2023 – Jul 2024 | Mumbai |
+| 📈 | **Cations Digital Pvt. Ltd.** | SEO Executive | Apr 2023 – Jul 2024 | Mumbai |
 
 **At Mahity Systems:**
 - Built responsive websites using Next.js, Remix, TypeScript, Tailwind CSS
@@ -149,7 +155,7 @@ const pornima = {
 - Integrated chatbot APIs and implemented Playwright E2E tests
 - Set up Umami Analytics for user behavior tracking
 
-**At Captions Digital:**
+**At Cations Digital Digital:**
 - Conducted keyword research and on-page SEO optimization using Semrush
 - Built backlinks and monitored site performance
 - Designed digital marketing campaign creatives using Canva
