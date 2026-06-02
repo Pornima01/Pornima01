@@ -108,20 +108,20 @@ Currently building at **Mahity Systems** — and always open to exciting new cha
 
 | | Project | Stack | Links |
 |:---:|:--------|:------|:-----:|
-| 🌐 | **Mahity Systems Website** — Corporate site with SEO and Umami Analytics | `Next.js` `Remix` `Tailwind` | [Code](https://github.com/Pornima01/mahity-new-website) · [Live](https://mahity.in) |
+| 🌐 | **Mahity Systems Website** — Corporate site with SEO and Umami Analytics | `Next.js` `Remix` `Tailwind` | [Code](https://github.com/Pornima01/mahity-new-website) · [Live](https://mahity-new-website.vercel.app/) |
 | 🦷 | **Sanchita Dental Website** — Booking system with Framer Motion animations | `Next.js` `Framer Motion` | [Code](https://github.com/Pornima01/sanchita-dental-website) · [Live](https://sanchita-dental-website.vercel.app) |
 | ⚙️ | **Advanced CRM System** — Sales pipeline, Golang backend, Playwright tests | `Remix` `Golang` `MySQL` | [Code](https://github.com/Pornima01/mahity-crm) |
 | 📊 | **Devlake Dashboard** — Micro Frontend engineering metrics dashboard | `React` `Module Federation` | [Code](https://github.com/Pornima01/devlake-dashboard) |
-| 📈 | **D3.js Visualizations** — Interactive charts, bar graphs, treemaps | `D3.js` `SVG` `JS` | [Code](https://github.com/Pornima01/d3-js-projects) · [Live](https://pornima01.github.io/d3-js-projects) |
+| 📈 | **D3.js Visualizations** — Interactive charts, bar graphs, treemaps | `D3.js` `SVG` `JS` | [Code](https://github.com/Pornima01/d3-js-projects) · [Live](https://d3-js-projects.vercel.app/) |
 | 🛒 | **Medusa E-commerce** — Headless commerce with admin dashboard | `Next.js` `Medusa` `PostgreSQL` | [Code](https://github.com/Pornima01/medusa-ecommerce) |
-| 💅 | **Aperia Nails Website** — Salon booking with animated portfolio | `Next.js` `Framer Motion` | [Code](https://github.com/Pornima01/aperia-nails) · [Live](https://aperia-nails.vercel.app) |
-| 🍽️ | **Restaurant Website** — Menu, table reservation and gallery | `Next.js` `Tailwind` | [Code](https://github.com/Pornima01/restaurant-website) · [Live](https://restaurant-website-porn.vercel.app) |
-| 🎨 | **Aperia Brand Website** — Brand showcase with TypeScript codebase | `Next.js` `TypeScript` | [Code](https://github.com/Pornima01/aperia-website) · [Live](https://aperia-website.vercel.app) |
-| 🎰 | **Slot Machine Game** — Spin logic, coin system and animations | `Vanilla JS` `CSS` `HTML` | [Code](https://github.com/Pornima01/slot-machine) · [Live](https://pornima01.github.io/slot-machine) |
-| 💬 | **Tiledesk Design Studio** — Chat UI with real-time chatbot API | `React` `Next.js` `REST API` | [Code](https://github.com/Pornima01/tiledesk-design-studio) |
+| 💅 | **Aperia Nails Website** — Salon booking with animated portfolio | `React` `Tailwind` `Framer Motion` | [Code](https://github.com/Pornima01/aperia-nails) · [Live](https://aperia-website.vercel.app/) |
+| 🍽️ | **Restaurant Website** — Menu, table reservation and gallery | `React` `Webpack` `Tailwind` | [Code](https://github.com/Pornima01/restaurant-website) · [Live](https://restaurant-website-one-bice.vercel.app/) |
+| 🎨 | **Aperia Brand Website** — Brand showcase with TypeScript codebase | `Next.js` `TypeScript` | [Code](https://github.com/Pornima01/aperia-website) · [Live](https://aperia-website.vercel.app/) |
+| 🎰 | **Slot Machine Game** — Spin logic, coin system and animations | `Vanilla JS` `CSS` `HTML` | [Code](https://github.com/Pornima01/slot-machine) · [Live](https://slot-machine-lac-omega.vercel.app/) |
+| 💬 | **Tiledesk Design Studio** — Chat UI with real-time chatbot API | `React` `Next.js` `REST API` | [Code](https://github.com/Pornima01/tiledesk-design-studio) · [Live](https://tiledesk-design-studio.vercel.app/) |
 | 🗄️ | **Mahity Strapi CMS** — Headless CMS with custom API endpoints | `Strapi` `Node.js` `PostgreSQL` | [Code](https://github.com/Pornima01/mahity-strapi) |
 | 💼 | **Unnati CRM** — Client management and automation | `Remix` `Golang` `MySQL` | [Code](https://github.com/Pornima01/unnati-crm) |
-| 🌐 | **Mahity Old Website** — Previous corporate website | `Next.js` `Tailwind` `Umami` | [Code](https://github.com/Pornima01/mahity-website) |
+| 🌐 | **Mahity Old Website** — Previous corporate website | `Next.js` `Tailwind` `Umami` | [Code](https://github.com/Pornima01/mahity-website) · [Live](https://mahity-website-oldest.vercel.app/) |
 
 </div>
 
@@ -155,7 +155,7 @@ Currently building at **Mahity Systems** — and always open to exciting new cha
 - Integrated chatbot APIs and implemented Playwright E2E tests
 - Set up Umami Analytics for user behavior tracking
 
-**At Cations Digital Digital:**
+**At Cations Digital:**
 - Conducted keyword research and on-page SEO optimization using Semrush
 - Built backlinks and monitored site performance
 - Designed digital marketing campaign creatives using Canva
