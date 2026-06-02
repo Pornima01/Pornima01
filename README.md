@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pornima%20Mulik&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Mumbai%2C%20India&descSize=18&descAlignY=62&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:2424h3e&height=200&section=header&text=Pornima%20Mulik&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Mumbai%2C%20India&descSize=18&descAlignY=62&descColor=c4b5fd" width="100%"/>
 
 <br/>
 
@@ -122,11 +122,6 @@ const pornima = {
 ---
 
 ## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pornima01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=4f8ef7&icon_color=7c3aed&text_color=e2e8f0&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pornima01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4f8ef7&text_color=e2e8f0&bg_color=0d1117" />
-</div>
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=pornima01&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f472b6&currStreakLabel=4f8ef7&sideLabels=e2e8f0&dates=64748b&stroke=1e2d4a" />
